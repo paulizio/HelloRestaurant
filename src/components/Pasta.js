@@ -8,10 +8,10 @@ import pasta3 from "../pictures/pasta3.jpg";
 const Pasta=()=>{
  
 	return(
-		<Container>
-			<div >
+		<Container fluid>
+	
 				<h2 className="otsikko">Pasta</h2>
-				<CardDeck >
+				<CardDeck className="card-deck">
 					<Card style={{ width: "18rem",float:"left" }}>
 						<Card.Img variant="top" src={pasta1} />
 						<Card.Body>
@@ -89,7 +89,7 @@ const Pasta=()=>{
 						</Card.Body>
 					</Card>
 				</CardDeck>
-			</div>
+		
 		</Container>
 	);
 };

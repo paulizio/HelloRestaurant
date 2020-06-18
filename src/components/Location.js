@@ -7,7 +7,7 @@ const Location =()=>{
 	const position = [60.168333, 24.95625];
 
 	return(
-		<Container>
+		<Container fluid>
 			<div className="center">
 				<Map center={position} zoom={12}>
 					<TileLayer
