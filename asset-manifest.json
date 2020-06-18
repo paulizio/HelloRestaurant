@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/hellorestaurant/static/css/main.94ca9de2.chunk.css",
+    "main.js": "/hellorestaurant/static/js/main.bc5c9738.chunk.js",
+    "main.js.map": "/hellorestaurant/static/js/main.bc5c9738.chunk.js.map",
+    "runtime-main.js": "/hellorestaurant/static/js/runtime-main.d24eb8f9.js",
+    "runtime-main.js.map": "/hellorestaurant/static/js/runtime-main.d24eb8f9.js.map",
+    "static/js/2.f597d568.chunk.js": "/hellorestaurant/static/js/2.f597d568.chunk.js",
+    "static/js/2.f597d568.chunk.js.map": "/hellorestaurant/static/js/2.f597d568.chunk.js.map",
+    "index.html": "/hellorestaurant/index.html",
+    "precache-manifest.ddf53bcaa6b990dba0f7b3defa31221b.js": "/hellorestaurant/precache-manifest.ddf53bcaa6b990dba0f7b3defa31221b.js",
+    "service-worker.js": "/hellorestaurant/service-worker.js",
+    "static/css/main.94ca9de2.chunk.css.map": "/hellorestaurant/static/css/main.94ca9de2.chunk.css.map",
+    "static/js/2.f597d568.chunk.js.LICENSE.txt": "/hellorestaurant/static/js/2.f597d568.chunk.js.LICENSE.txt",
+    "static/media/pasta1.jpg": "/hellorestaurant/static/media/pasta1.6e271a13.jpg",
+    "static/media/pasta2.jpg": "/hellorestaurant/static/media/pasta2.0842a4fb.jpg",
+    "static/media/pasta3.jpg": "/hellorestaurant/static/media/pasta3.bdb3d347.jpg",
+    "static/media/pizza1.jpg": "/hellorestaurant/static/media/pizza1.eb964db0.jpg",
+    "static/media/pizza2.jpg": "/hellorestaurant/static/media/pizza2.0ac610fe.jpg",
+    "static/media/pizza3.jpg": "/hellorestaurant/static/media/pizza3.15857d71.jpg",
+    "static/media/App.css": "/hellorestaurant/static/media/taustakuva.c113aa58.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d24eb8f9.js",
+    "static/js/2.f597d568.chunk.js",
+    "static/css/main.94ca9de2.chunk.css",
+    "static/js/main.bc5c9738.chunk.js"
+  ]
+}
