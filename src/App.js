@@ -13,8 +13,8 @@ import {
 
 const App=()=>{
 	return(   
-		<div className="taustakuva">
-			<Container  >
+
+			<Container fluid  className="taustakuva" >
 				<Navigation/>
 				<Switch>
 					<Route path="/menu">
@@ -30,10 +30,7 @@ const App=()=>{
 						<Frontpage/>
 					</Route>
 				</Switch>
-
-
 			</Container>
-		</div>
 
 	);
 };

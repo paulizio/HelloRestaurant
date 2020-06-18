@@ -5,12 +5,12 @@ import {Container,Jumbotron } from "react-bootstrap";
 const Contact =()=>{
 
 	return(
-		<Container>
+		<Container >
 			<div><h1 className="otsikko">Contact information</h1>
 				<Jumbotron className="jumbotron">
 					<ul className="left" >
-						<li>Phonenumber: 040-1234567</li>
-						<li>Address: Mariankatu 2, 00170 Helsinki</li>
+						<ul>Phonenumber: 040-1234567</ul>
+						<ul>Address: Mariankatu 2, 00170 Helsinki</ul>
 					</ul>
 					<Location />
 				</Jumbotron>
