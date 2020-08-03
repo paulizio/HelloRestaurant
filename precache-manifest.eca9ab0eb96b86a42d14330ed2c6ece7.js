@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac2f75d84d94dd21d02eea43ff1bc944",
+    "revision": "dabbc0b1137297a3369cb5d6142ea4e6",
     "url": "/HelloRestaurant/index.html"
   },
   {
-    "revision": "33d4e49b2ecc70365974",
-    "url": "/HelloRestaurant/static/css/main.cddbdebd.chunk.css"
+    "revision": "2ff117ee7c627d536166",
+    "url": "/HelloRestaurant/static/css/main.bb19d4ab.chunk.css"
   },
   {
-    "revision": "4f6776f84e3f3d221a17",
-    "url": "/HelloRestaurant/static/js/2.f597d568.chunk.js"
+    "revision": "6e6dd49a1010ecdd2cf9",
+    "url": "/HelloRestaurant/static/js/2.51127f18.chunk.js"
   },
   {
     "revision": "6791e7fb9584d65ed87d655035c7da95",
-    "url": "/HelloRestaurant/static/js/2.f597d568.chunk.js.LICENSE.txt"
+    "url": "/HelloRestaurant/static/js/2.51127f18.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "33d4e49b2ecc70365974",
-    "url": "/HelloRestaurant/static/js/main.7c771eb0.chunk.js"
+    "revision": "2ff117ee7c627d536166",
+    "url": "/HelloRestaurant/static/js/main.0890686b.chunk.js"
   },
   {
     "revision": "aaebcad325795b41c231",
@@ -48,7 +48,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HelloRestaurant/static/media/pizza3.15857d71.jpg"
   },
   {
-    "revision": "c113aa58294148694ab38710e3d60156",
-    "url": "/HelloRestaurant/static/media/taustakuva.c113aa58.jpg"
+    "revision": "8c8e70105bc405e2e1151854b902d5da",
+    "url": "/HelloRestaurant/static/media/taustakuva7.8c8e7010.jpg"
+  },
+  {
+    "revision": "3ef2675c475043027d4902307d7f85b8",
+    "url": "/HelloRestaurant/static/media/taustakuva9.3ef2675c.jpg"
   }
 ]);
