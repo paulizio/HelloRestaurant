@@ -4,13 +4,12 @@ import {Button,Card,CardDeck,Container,ListGroup,Accordion} from "react-bootstra
 import pasta1 from "../pictures/pasta1.jpg";
 import pasta2 from "../pictures/pasta2.jpg";
 import pasta3 from "../pictures/pasta3.jpg";
-
+import '../App.css'
 const Pasta=()=>{
  
 	return(
 		<Container fluid>
-	
-				<h2 className="otsikko">Pasta</h2>
+
 				<CardDeck className="card-deck">
 					<Card style={{ width: "18rem",float:"left" }}>
 						<Card.Img variant="top" src={pasta1} />

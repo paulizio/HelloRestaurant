@@ -2,23 +2,24 @@ import React from "react";
 import Location from "./Location";
 import {Container,Jumbotron } from "react-bootstrap";
 
+import '../App.css'
 const Contact =()=>{
 
 	return(
-		<Container >
-			<div><h1 className="otsikko">Contact information</h1>
-				<Jumbotron className="jumbotron">
-					<ul className="left" >
+
+			<div>
+				<div className="helsinki">
+				<h1>Contact information</h1>
+				<ul >
 						<ul>Phonenumber: 040-1234567</ul>
 						<ul>Address: Mariankatu 2, 00170 Helsinki</ul>
 					</ul>
-					<Location />
-				</Jumbotron>
-				<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+					<Container style={{alignItems:"center"}}>
+					<Location/>
+					</Container>
 			</div>
+</div>
 
-
-		</Container>
 	);
 };
 export default Contact;

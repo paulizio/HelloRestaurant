@@ -7,9 +7,8 @@ import pizza3 from "../pictures/pizza3.jpg";
 const Pizza=()=>{
 
 	return(
-		<Container fluid>
-			<div>
-				<h2 className="otsikko">Pizza</h2>
+
+			<Container fluid >
 				<CardDeck className="card-deck">
 					<Card style={{ width: "18rem",float:"left" }}>
 						<Card.Img variant="top" src={pizza1} />
@@ -87,9 +86,9 @@ const Pizza=()=>{
 						</Card.Body>
 					</Card>
 				</CardDeck>
-				<br/><br/><br/><br/><br/>
-			</div>
-		</Container>
+
+			</Container>
+		
 	);
 };
 
