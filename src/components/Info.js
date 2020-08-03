@@ -4,8 +4,8 @@ import '../App.css'
 const Info=()=>{
 
 	return(
-
-		<div  className="info">
+<section id="info">
+		<div  className="info" >
 			<h1 style={{fontSize:60}}>About us</h1>    
 			<Jumbotron style={{backgroundColor:"lightgrey",margin:20}}>
 				<p >
@@ -13,6 +13,7 @@ const Info=()=>{
 				</p>
 			</Jumbotron>
 		</div>
+		</section>
 
 	);
 };

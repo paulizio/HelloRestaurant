@@ -1,11 +1,12 @@
-import React, { useRef } from 'react'
+import React from 'react'
 import {Jumbotron} from "react-bootstrap";
 import "../App.css";
 
 const Frontpage=()=>{
 
 	return(
-		<div className="frontpage">  
+		<section id="home">
+		<div className="frontpage" >  
 			<h1 style={{fontSize: 60,paddingTop:60,color:"white"}}>The "Hello World" Restaurant</h1>  
 <Jumbotron className="transparent">
 				<h1 className="welcomeText">Welcome</h1>
@@ -14,6 +15,7 @@ const Frontpage=()=>{
 				</p>
 </Jumbotron>
 		</div>
+		</section>
 	);
 };
 export default Frontpage;

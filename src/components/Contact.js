@@ -1,14 +1,14 @@
 import React from "react";
 import Location from "./Location";
-import {Container,Jumbotron } from "react-bootstrap";
+import {Container} from "react-bootstrap";
 
 import '../App.css'
 const Contact =()=>{
 
 	return(
-
-			<div>
-				<div className="helsinki">
+<section id="contact">
+			<div >
+				<div className="contact">
 				<h1>Contact information</h1>
 				<ul >
 						<ul>Phonenumber: 040-1234567</ul>
@@ -19,6 +19,7 @@ const Contact =()=>{
 					</Container>
 			</div>
 </div>
+</section>
 
 	);
 };
