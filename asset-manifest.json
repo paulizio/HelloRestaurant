@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/HelloRestaurant/static/css/main.bb19d4ab.chunk.css",
-    "main.js": "/HelloRestaurant/static/js/main.0890686b.chunk.js",
-    "main.js.map": "/HelloRestaurant/static/js/main.0890686b.chunk.js.map",
+    "main.css": "/HelloRestaurant/static/css/main.07c3bc2f.chunk.css",
+    "main.js": "/HelloRestaurant/static/js/main.9110c9bb.chunk.js",
+    "main.js.map": "/HelloRestaurant/static/js/main.9110c9bb.chunk.js.map",
     "runtime-main.js": "/HelloRestaurant/static/js/runtime-main.b546c41e.js",
     "runtime-main.js.map": "/HelloRestaurant/static/js/runtime-main.b546c41e.js.map",
-    "static/js/2.51127f18.chunk.js": "/HelloRestaurant/static/js/2.51127f18.chunk.js",
-    "static/js/2.51127f18.chunk.js.map": "/HelloRestaurant/static/js/2.51127f18.chunk.js.map",
+    "static/js/2.9692d795.chunk.js": "/HelloRestaurant/static/js/2.9692d795.chunk.js",
+    "static/js/2.9692d795.chunk.js.map": "/HelloRestaurant/static/js/2.9692d795.chunk.js.map",
     "index.html": "/HelloRestaurant/index.html",
-    "precache-manifest.eca9ab0eb96b86a42d14330ed2c6ece7.js": "/HelloRestaurant/precache-manifest.eca9ab0eb96b86a42d14330ed2c6ece7.js",
+    "precache-manifest.cd5a381882aad3a97b9ad943707e6c07.js": "/HelloRestaurant/precache-manifest.cd5a381882aad3a97b9ad943707e6c07.js",
     "service-worker.js": "/HelloRestaurant/service-worker.js",
-    "static/css/main.bb19d4ab.chunk.css.map": "/HelloRestaurant/static/css/main.bb19d4ab.chunk.css.map",
-    "static/js/2.51127f18.chunk.js.LICENSE.txt": "/HelloRestaurant/static/js/2.51127f18.chunk.js.LICENSE.txt",
+    "static/css/main.07c3bc2f.chunk.css.map": "/HelloRestaurant/static/css/main.07c3bc2f.chunk.css.map",
+    "static/js/2.9692d795.chunk.js.LICENSE.txt": "/HelloRestaurant/static/js/2.9692d795.chunk.js.LICENSE.txt",
     "static/media/pasta1.jpg": "/HelloRestaurant/static/media/pasta1.6e271a13.jpg",
     "static/media/pasta2.jpg": "/HelloRestaurant/static/media/pasta2.0842a4fb.jpg",
     "static/media/pasta3.jpg": "/HelloRestaurant/static/media/pasta3.bdb3d347.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b546c41e.js",
-    "static/js/2.51127f18.chunk.js",
-    "static/css/main.bb19d4ab.chunk.css",
-    "static/js/main.0890686b.chunk.js"
+    "static/js/2.9692d795.chunk.js",
+    "static/css/main.07c3bc2f.chunk.css",
+    "static/js/main.9110c9bb.chunk.js"
   ]
 }
